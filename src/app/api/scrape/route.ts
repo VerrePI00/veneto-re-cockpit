@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { getDb, logScrape } from "@/lib/db";
+import { addPriceRecord, updateZone, logScrape } from "@/lib/db";
 
 export const dynamic = "force-dynamic";
 
@@ -13,34 +13,22 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: "Invalid payload" }, { status: 400 });
   }
 
-  const db = getDb();
   let count = 0;
 
-  const updatePrice = db.prepare(
-    "UPDATE zones SET price = ?, updated_at = datetime('now') WHERE id = ?"
-  );
-  const insertHistory = db.prepare(
-    "INSERT INTO price_history (zone_id, price, source) VALUES (?, ?, ?)"
-  );
-  const updateField = db.prepare(
-    "UPDATE zones SET yield_lt = COALESCE(?, yield_lt), yield_st = COALESCE(?, yield_st), dom = COALESCE(?, dom), updated_at = datetime('now') WHERE id = ?"
-  );
-
-  const tx = db.transaction(() => {
+  try {
     for (const u of updates) {
       if (u.price) {
-        updatePrice.run(u.price, u.zoneId);
-        insertHistory.run(u.zoneId, u.price, source);
+        addPriceRecord(u.zoneId, u.price, source);
       }
-      if (u.yieldLT || u.yieldST || u.dom) {
-        updateField.run(u.yieldLT || null, u.yieldST || null, u.dom || null, u.zoneId);
+      const fields: Partial<Record<string, unknown>> = {};
+      if (u.yieldLT != null) fields.yieldLT = u.yieldLT;
+      if (u.yieldST != null) fields.yieldST = u.yieldST;
+      if (u.dom != null) fields.dom = u.dom;
+      if (Object.keys(fields).length > 0) {
+        updateZone(u.zoneId, fields);
       }
       count++;
     }
-  });
-
-  try {
-    tx();
     logScrape(source, "success", count);
     return NextResponse.json({ success: true, updated: count });
   } catch (err) {
@@ -51,7 +39,5 @@ export async function POST(req: NextRequest) {
 }
 
 export async function GET() {
-  const db = getDb();
-  const logs = db.prepare("SELECT * FROM scrape_logs ORDER BY run_at DESC LIMIT 20").all();
-  return NextResponse.json(logs);
+  return NextResponse.json({ message: "Scrape API — use POST to update data." });
 }
