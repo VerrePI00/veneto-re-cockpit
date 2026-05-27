@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# database write-ahead log (the .db itself must be committed for deploy)
+/data/*.db-wal
+/data/*.db-shm
