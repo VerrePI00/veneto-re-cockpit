@@ -6,6 +6,9 @@ on:
     - cron: "0 6 * * 1"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -27,6 +30,7 @@ jobs:
 
       - name: Scrape prices from Immobiliare.it
         run: npm run scrape:prices
+        continue-on-error: true
 
       - name: Export updated data to JSON
         run: npm run export:json
