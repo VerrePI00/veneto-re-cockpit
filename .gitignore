@@ -44,5 +44,3 @@ next-env.d.ts
 /data/*.db-wal
 /data/*.db-shm
 
-# Local workflow files (push manually with workflow scope)
-/.github/
