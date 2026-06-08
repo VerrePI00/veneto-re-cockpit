@@ -5,7 +5,7 @@
     "province": "BL",
     "x": 545,
     "y": 175,
-    "price": 6683,
+    "price": 6731,
     "rent_lt": 11,
     "yield_lt": 5.3,
     "yield_st": 12,
@@ -24,7 +24,7 @@
     "tags": "[\"Short-term\"]",
     "drivers": "[\"Lago + sci\"]",
     "risks": "[\"Demografia provincia\"]",
-    "updated_at": "2026-05-27 09:30:12",
+    "updated_at": "2026-06-08 10:24:22",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -33,7 +33,7 @@
     "province": "BL",
     "x": 545,
     "y": 130,
-    "price": 6683,
+    "price": 6731,
     "rent_lt": 22,
     "yield_lt": 5,
     "yield_st": 13,
@@ -52,7 +52,7 @@
     "tags": "[\"Short-term\",\"Premium\",\"Montagna\"]",
     "drivers": "[\"Sellaronda premium\"]",
     "risks": "[\"CAPEX altissimo\",\"Climate\"]",
-    "updated_at": "2026-05-27 09:29:31",
+    "updated_at": "2026-06-08 10:23:42",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -61,7 +61,7 @@
     "province": "BL",
     "x": 600,
     "y": 155,
-    "price": 6683,
+    "price": 6731,
     "rent_lt": 11,
     "yield_lt": 6,
     "yield_st": 13,
@@ -80,7 +80,7 @@
     "tags": "[\"Short-term\",\"Rischio\"]",
     "drivers": "[\"Cadore\"]",
     "risks": "[\"Spopolamento -7,5% Cadore\"]",
-    "updated_at": "2026-05-27 09:29:44",
+    "updated_at": "2026-06-08 10:23:52",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -89,7 +89,7 @@
     "province": "BL",
     "x": 510,
     "y": 220,
-    "price": 6683,
+    "price": 6731,
     "rent_lt": 8.7,
     "yield_lt": 6.9,
     "yield_st": null,
@@ -108,7 +108,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Capoluogo Luxottica indotto\"]",
     "risks": "[\"Provincia -3,8% al 2031\",\">30% over-65 entro 2031\"]",
-    "updated_at": "2026-05-27 09:28:44",
+    "updated_at": "2026-06-08 10:22:48",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -117,7 +117,7 @@
     "province": "BL",
     "x": 590,
     "y": 130,
-    "price": 6683,
+    "price": 6731,
     "rent_lt": 28,
     "yield_lt": 3,
     "yield_st": 7,
@@ -136,7 +136,7 @@
     "tags": "[\"Premium\",\"Da evitare cash-flow\"]",
     "drivers": "[\"Olimpiadi 2026\"]",
     "risks": "[\"Pista bob €120M legacy\",\"Solo 40/98 opere\",\"Climate Alpi\"]",
-    "updated_at": "2026-05-27 09:28:58",
+    "updated_at": "2026-06-08 10:23:00",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -145,7 +145,7 @@
     "province": "BL",
     "x": 540,
     "y": 155,
-    "price": 6683,
+    "price": 6731,
     "rent_lt": 14,
     "yield_lt": 5.5,
     "yield_st": 17,
@@ -164,7 +164,7 @@
     "tags": "[\"Short-term\",\"Montagna\"]",
     "drivers": "[\"Dolomiti accessibili\"]",
     "risks": "[\"Climate change neve\"]",
-    "updated_at": "2026-05-27 09:29:22",
+    "updated_at": "2026-06-08 10:23:29",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -173,7 +173,7 @@
     "province": "BL",
     "x": 470,
     "y": 250,
-    "price": 6683,
+    "price": 6731,
     "rent_lt": 6.1,
     "yield_lt": 7.1,
     "yield_st": 11,
@@ -192,7 +192,7 @@
     "tags": "[\"Long-term\",\"Mispriced\"]",
     "drivers": "[\"Cash-on-cash interessante\"]",
     "risks": "[\"Provincia in calo\"]",
-    "updated_at": "2026-05-27 09:30:26",
+    "updated_at": "2026-06-08 10:24:36",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -201,7 +201,7 @@
     "province": "BL",
     "x": 530,
     "y": 220,
-    "price": 6683,
+    "price": 6731,
     "rent_lt": 7.5,
     "yield_lt": 7.2,
     "yield_st": null,
@@ -220,7 +220,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Luxottica indotto\"]",
     "risks": "[\"Provincia in calo\"]",
-    "updated_at": "2026-05-27 09:30:39",
+    "updated_at": "2026-06-08 10:24:46",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -229,7 +229,7 @@
     "province": "BL",
     "x": 590,
     "y": 170,
-    "price": 6683,
+    "price": 6731,
     "rent_lt": 10,
     "yield_lt": 5.5,
     "yield_st": 12,
@@ -248,7 +248,7 @@
     "tags": "[\"Short-term\",\"Rischio\"]",
     "drivers": "[\"Cadore\"]",
     "risks": "[\"Spopolamento area\"]",
-    "updated_at": "2026-05-27 09:30:49",
+    "updated_at": "2026-06-08 10:24:56",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -257,7 +257,7 @@
     "province": "BL",
     "x": 580,
     "y": 145,
-    "price": 6683,
+    "price": 6731,
     "rent_lt": 30.3,
     "yield_lt": 9,
     "yield_st": 14,
@@ -276,7 +276,7 @@
     "tags": "[\"Short-term\",\"Montagna\"]",
     "drivers": "[\"Cadore tradizione\"]",
     "risks": "[\"Spopolamento Cadore -7,5%\"]",
-    "updated_at": "2026-05-27 09:29:11",
+    "updated_at": "2026-06-08 10:23:14",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -285,7 +285,7 @@
     "province": "BL",
     "x": 660,
     "y": 145,
-    "price": 2046,
+    "price": 2045,
     "rent_lt": 11,
     "yield_lt": 5.5,
     "yield_st": 12,
@@ -304,7 +304,7 @@
     "tags": "[\"Short-term\",\"Rischio\"]",
     "drivers": "[\"Montagna minore\"]",
     "risks": "[\"Demografia\"]",
-    "updated_at": "2026-05-27 09:29:57",
+    "updated_at": "2026-06-08 10:24:07",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -313,7 +313,7 @@
     "province": "PD",
     "x": 445,
     "y": 460,
-    "price": 2084,
+    "price": 2130,
     "rent_lt": 10.1,
     "yield_lt": 5.2,
     "yield_st": 13,
@@ -332,7 +332,7 @@
     "tags": "[\"Termale\"]",
     "drivers": "[\"Wellness 12 mesi\"]",
     "risks": "[\"Invecchiamento clientela\"]",
-    "updated_at": "2026-05-27 09:23:41",
+    "updated_at": "2026-06-08 10:17:25",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -341,7 +341,7 @@
     "province": "PD",
     "x": 460,
     "y": 470,
-    "price": 2247,
+    "price": 2226,
     "rent_lt": 8.5,
     "yield_lt": 5.8,
     "yield_st": null,
@@ -360,7 +360,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Cintura padovana SIR3\",\"Tram in arrivo\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:24:39",
+    "updated_at": "2026-06-08 10:18:28",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -369,7 +369,7 @@
     "province": "PD",
     "x": 470,
     "y": 380,
-    "price": 1492,
+    "price": 1495,
     "rent_lt": 7.5,
     "yield_lt": 6.2,
     "yield_st": null,
@@ -388,7 +388,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Borgo medievale\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:24:06",
+    "updated_at": "2026-06-08 10:17:54",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -397,7 +397,7 @@
     "province": "PD",
     "x": 415,
     "y": 510,
-    "price": 1135,
+    "price": 1178,
     "rent_lt": 7,
     "yield_lt": 6.5,
     "yield_st": null,
@@ -416,7 +416,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Mercato locale\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:24:16",
+    "updated_at": "2026-06-08 10:18:06",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -425,7 +425,7 @@
     "province": "PD",
     "x": 430,
     "y": 510,
-    "price": 1492,
+    "price": 1495,
     "rent_lt": 7.5,
     "yield_lt": 6.4,
     "yield_st": null,
@@ -444,7 +444,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Mercato locale\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:24:27",
+    "updated_at": "2026-06-08 10:18:17",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -453,7 +453,7 @@
     "province": "PD",
     "x": 442,
     "y": 467,
-    "price": 1492,
+    "price": 1495,
     "rent_lt": 9.7,
     "yield_lt": 4.9,
     "yield_st": 13.5,
@@ -472,7 +472,7 @@
     "tags": "[\"Termale\"]",
     "drivers": "[\"Termale +13% prezzi YoY\"]",
     "risks": "[\"Doppio invecchiamento DE+IT\"]",
-    "updated_at": "2026-05-27 09:23:54",
+    "updated_at": "2026-06-08 10:17:41",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -509,7 +509,7 @@
     "province": "PD",
     "x": 470,
     "y": 455,
-    "price": 2644,
+    "price": 2666,
     "rent_lt": 8.5,
     "yield_lt": 9,
     "yield_st": 18,
@@ -528,7 +528,7 @@
     "tags": "[\"Top\",\"Universitario\"]",
     "drivers": "[\"UniPD\",\"Ospedale Padova\",\"SIR3 in arrivo\"]",
     "risks": "[\"PBSA pipeline 1.500 PL\"]",
-    "updated_at": "2026-05-27 09:23:26",
+    "updated_at": "2026-06-08 10:17:10",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -537,7 +537,7 @@
     "province": "PD",
     "x": 465,
     "y": 440,
-    "price": 2644,
+    "price": 2666,
     "rent_lt": 8.5,
     "yield_lt": 6.5,
     "yield_st": null,
@@ -556,7 +556,7 @@
     "tags": "[\"Top\",\"Long-term\",\"Universitario\"]",
     "drivers": "[\"Ospedale Padova grande\",\"UniPD\",\"Stazione\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:23:26",
+    "updated_at": "2026-06-08 10:17:10",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -565,7 +565,7 @@
     "province": "PD",
     "x": 462,
     "y": 460,
-    "price": 2644,
+    "price": 2666,
     "rent_lt": 7.5,
     "yield_lt": 9,
     "yield_st": null,
@@ -584,7 +584,7 @@
     "tags": "[\"Top\",\"Mispriced\",\"Long-term\"]",
     "drivers": "[\"SIR2/SIR3 tram in arrivo 2026\",\"Flusso studentesco\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:23:26",
+    "updated_at": "2026-06-08 10:17:10",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -593,7 +593,7 @@
     "province": "PD",
     "x": 460,
     "y": 445,
-    "price": 2644,
+    "price": 2666,
     "rent_lt": 15.6,
     "yield_lt": 5.8,
     "yield_st": 20,
@@ -612,7 +612,7 @@
     "tags": "[\"Short-term\",\"Premium\"]",
     "drivers": "[\"Centro storico UNESCO Scrovegni\"]",
     "risks": "[\"Possibile contagio reg. STR\"]",
-    "updated_at": "2026-05-27 09:23:15",
+    "updated_at": "2026-06-08 10:17:00",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -621,7 +621,7 @@
     "province": "RO",
     "x": 495,
     "y": 555,
-    "price": 1607,
+    "price": 1627,
     "rent_lt": 7,
     "yield_lt": 8,
     "yield_st": null,
@@ -640,7 +640,7 @@
     "tags": "[\"Rischio demografico\"]",
     "drivers": "[]",
     "risks": "[\"Spopolamento\"]",
-    "updated_at": "2026-05-27 09:31:14",
+    "updated_at": "2026-06-08 10:25:22",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -649,7 +649,7 @@
     "province": "RO",
     "x": 320,
     "y": 545,
-    "price": 1607,
+    "price": 1627,
     "rent_lt": 5.5,
     "yield_lt": 8.8,
     "yield_st": null,
@@ -668,7 +668,7 @@
     "tags": "[\"Rischio demografico\"]",
     "drivers": "[]",
     "risks": "[\"Spopolamento\"]",
-    "updated_at": "2026-05-27 09:32:04",
+    "updated_at": "2026-06-08 10:26:12",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -677,7 +677,7 @@
     "province": "RO",
     "x": 365,
     "y": 555,
-    "price": 1607,
+    "price": 1627,
     "rent_lt": 5.5,
     "yield_lt": 8.8,
     "yield_st": null,
@@ -696,7 +696,7 @@
     "tags": "[\"Rischio demografico\"]",
     "drivers": "[]",
     "risks": "[\"Spopolamento\"]",
-    "updated_at": "2026-05-27 09:31:51",
+    "updated_at": "2026-06-08 10:25:58",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -705,7 +705,7 @@
     "province": "RO",
     "x": 580,
     "y": 590,
-    "price": 1607,
+    "price": 1627,
     "rent_lt": 5.5,
     "yield_lt": 7.8,
     "yield_st": null,
@@ -724,7 +724,7 @@
     "tags": "[\"Rischio demografico\"]",
     "drivers": "[\"Delta Po\"]",
     "risks": "[\"Demografia\"]",
-    "updated_at": "2026-05-27 09:31:23",
+    "updated_at": "2026-06-08 10:25:32",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -733,7 +733,7 @@
     "province": "RO",
     "x": 555,
     "y": 550,
-    "price": 1607,
+    "price": 1627,
     "rent_lt": 17.9,
     "yield_lt": 7.3,
     "yield_st": 14,
@@ -752,7 +752,7 @@
     "tags": "[\"Short-term\",\"Stagionale\"]",
     "drivers": "[\"STR estivo Delta\"]",
     "risks": "[\"Stagionalità\",\"Provincia in declino\"]",
-    "updated_at": "2026-05-27 09:31:37",
+    "updated_at": "2026-06-08 10:25:44",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -761,7 +761,7 @@
     "province": "RO",
     "x": 415,
     "y": 555,
-    "price": 1288,
+    "price": 1325,
     "rent_lt": 8.7,
     "yield_lt": 8.7,
     "yield_st": null,
@@ -780,7 +780,7 @@
     "tags": "[\"Da evitare strategicamente\",\"Rischio demografico\"]",
     "drivers": "[\"Capoluogo\"]",
     "risks": "[\"-12,4% PIL lavorativa 2035\",\"Peggior demografia Centro-Nord\"]",
-    "updated_at": "2026-05-27 09:30:58",
+    "updated_at": "2026-06-08 10:25:09",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -789,7 +789,7 @@
     "province": "TV",
     "x": 480,
     "y": 325,
-    "price": 1691,
+    "price": 1647,
     "rent_lt": 10,
     "yield_lt": 5,
     "yield_st": 14,
@@ -808,7 +808,7 @@
     "tags": "[\"Short-term\",\"Nicchia\"]",
     "drivers": "[\"Borgo storico premium\"]",
     "risks": "[\"Mercato nicchia eventi\"]",
-    "updated_at": "2026-05-27 09:22:52",
+    "updated_at": "2026-06-08 10:16:29",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -817,7 +817,7 @@
     "province": "TV",
     "x": 580,
     "y": 390,
-    "price": 1579,
+    "price": 1633,
     "rent_lt": 8.3,
     "yield_lt": 7,
     "yield_st": null,
@@ -836,7 +836,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Periferia TV\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:21:29",
+    "updated_at": "2026-06-08 10:15:26",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -845,7 +845,7 @@
     "province": "TV",
     "x": 490,
     "y": 380,
-    "price": 1691,
+    "price": 1647,
     "rent_lt": 8.5,
     "yield_lt": 5.5,
     "yield_st": null,
@@ -864,7 +864,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Centro storico medievale\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:22:29",
+    "updated_at": "2026-06-08 10:16:07",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -873,7 +873,7 @@
     "province": "TV",
     "x": 555,
     "y": 295,
-    "price": 1691,
+    "price": 1647,
     "rent_lt": 9.9,
     "yield_lt": 5.4,
     "yield_st": 15,
@@ -892,7 +892,7 @@
     "tags": "[\"Top\",\"Short-term\",\"Emerging\"]",
     "drivers": "[\"UNESCO Prosecco +9,2% arrivi 2024\",\"+7,3% 2025\",\"TAV Conegliano\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:21:58",
+    "updated_at": "2026-06-08 10:15:48",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -901,7 +901,7 @@
     "province": "TV",
     "x": 575,
     "y": 405,
-    "price": 2070,
+    "price": 2096,
     "rent_lt": 10.5,
     "yield_lt": 5.4,
     "yield_st": null,
@@ -920,7 +920,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Pendolarismo VE-TV\",\"TAV beneficiario\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:21:19",
+    "updated_at": "2026-06-08 10:15:17",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -929,7 +929,7 @@
     "province": "TV",
     "x": 500,
     "y": 345,
-    "price": 1691,
+    "price": 1647,
     "rent_lt": 8.5,
     "yield_lt": 6.2,
     "yield_st": null,
@@ -948,7 +948,7 @@
     "tags": "[\"Long-term\",\"Emerging\"]",
     "drivers": "[\"Sportsystem +3,2% Q1 2025\",\"400 aziende 9000 addetti\",\"Diadora-Lotto-Scarpa\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:22:40",
+    "updated_at": "2026-06-08 10:16:19",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -957,7 +957,7 @@
     "province": "TV",
     "x": 660,
     "y": 335,
-    "price": 1691,
+    "price": 1647,
     "rent_lt": 7.5,
     "yield_lt": 7.3,
     "yield_st": null,
@@ -976,7 +976,7 @@
     "tags": "[\"Long-term\",\"Mispriced\",\"Nicchia\"]",
     "drivers": "[\"ORAS 430+ professionisti\",\"Riabilitazione regionale\"]",
     "risks": "[\"Mono-driver ORAS\"]",
-    "updated_at": "2026-05-27 09:21:04",
+    "updated_at": "2026-06-08 10:15:05",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -985,7 +985,7 @@
     "province": "TV",
     "x": 625,
     "y": 345,
-    "price": 1691,
+    "price": 1647,
     "rent_lt": 9.5,
     "yield_lt": 5.8,
     "yield_st": null,
@@ -1004,7 +1004,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Centro Marca\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:20:54",
+    "updated_at": "2026-06-08 10:14:52",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1013,7 +1013,7 @@
     "province": "TV",
     "x": 600,
     "y": 395,
-    "price": 1691,
+    "price": 1647,
     "rent_lt": 8.5,
     "yield_lt": 7.5,
     "yield_st": null,
@@ -1032,7 +1032,7 @@
     "tags": "[\"Mispriced\",\"Long-term\",\"Emerging\"]",
     "drivers": "[\"H-Farm (utile €34M 2025)\",\"Industria\",\"Innovation workers\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:21:44",
+    "updated_at": "2026-06-08 10:15:35",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1041,7 +1041,7 @@
     "province": "TV",
     "x": 560,
     "y": 370,
-    "price": 3045,
+    "price": 3028,
     "rent_lt": 11.3,
     "yield_lt": 5.8,
     "yield_st": null,
@@ -1060,7 +1060,7 @@
     "tags": "[\"Top\",\"Long-term\",\"Emerging\"]",
     "drivers": "[\"Diversificazione distretti\",\"Benetton-Diadora-De'Longhi\",\"TAV Fase 1\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:20:42",
+    "updated_at": "2026-06-08 10:14:37",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1069,7 +1069,7 @@
     "province": "TV",
     "x": 510,
     "y": 290,
-    "price": 1691,
+    "price": 1647,
     "rent_lt": 7.5,
     "yield_lt": 6.5,
     "yield_st": 16,
@@ -1088,7 +1088,7 @@
     "tags": "[\"Short-term\",\"Emerging\"]",
     "drivers": "[\"Prosecco DOCG\",\"UNESCO\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:23:05",
+    "updated_at": "2026-06-08 10:16:45",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1097,7 +1097,7 @@
     "province": "TV",
     "x": 540,
     "y": 270,
-    "price": 1691,
+    "price": 1647,
     "rent_lt": 9.9,
     "yield_lt": 9.8,
     "yield_st": 15,
@@ -1116,7 +1116,7 @@
     "tags": "[\"Mispriced\",\"Long-term\",\"Emerging\"]",
     "drivers": "[\"Permasteelisa HQ 3.900 dip.\",\"Vicinanza UNESCO\"]",
     "risks": "[\"Atlas Holdings USA owner\"]",
-    "updated_at": "2026-05-27 09:22:13",
+    "updated_at": "2026-06-08 10:15:57",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1125,7 +1125,7 @@
     "province": "VE",
     "x": 830,
     "y": 405,
-    "price": 1975,
+    "price": 1964,
     "rent_lt": 10.2,
     "yield_lt": 4,
     "yield_st": 7,
@@ -1144,7 +1144,7 @@
     "tags": "[\"Saturazione\",\"Da disinvestire\"]",
     "drivers": "[\"5,57M presenze (>Jesolo)\"]",
     "risks": "[\"Early Saturation\",\"Revenue -8,5% YoY\",\"Reg. UE 1028\"]",
-    "updated_at": "2026-05-27 09:18:42",
+    "updated_at": "2026-06-08 10:12:34",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1153,7 +1153,7 @@
     "province": "VE",
     "x": 770,
     "y": 405,
-    "price": 2571,
+    "price": 2612,
     "rent_lt": 23.5,
     "yield_lt": 6,
     "yield_st": 8.5,
@@ -1172,7 +1172,7 @@
     "tags": "[\"Short-term\"]",
     "drivers": "[\"Turismo qualità tedesca\",\"4,5M presenze\"]",
     "risks": "[\"CIN/SCIA stretta\"]",
-    "updated_at": "2026-05-27 09:18:32",
+    "updated_at": "2026-06-08 10:12:25",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1181,7 +1181,7 @@
     "province": "VE",
     "x": 685,
     "y": 435,
-    "price": 2571,
+    "price": 2612,
     "rent_lt": 14.5,
     "yield_lt": 5.8,
     "yield_st": 9.5,
@@ -1200,7 +1200,7 @@
     "tags": "[\"Short-term\",\"Mispriced\"]",
     "drivers": "[\"6,76M presenze (>Rimini)\",\"Open-air dominante\"]",
     "risks": "[\"Saturazione tetto\"]",
-    "updated_at": "2026-05-27 09:18:51",
+    "updated_at": "2026-06-08 10:12:43",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1209,7 +1209,7 @@
     "province": "VE",
     "x": 590,
     "y": 510,
-    "price": 1997,
+    "price": 2023,
     "rent_lt": 11.4,
     "yield_lt": 5.4,
     "yield_st": 13.5,
@@ -1228,7 +1228,7 @@
     "tags": "[\"Stagionale\"]",
     "drivers": "[\"Sottomarina balneare\"]",
     "risks": "[\"Stagionalità forte\"]",
-    "updated_at": "2026-05-27 09:19:52",
+    "updated_at": "2026-06-08 10:13:45",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1237,7 +1237,7 @@
     "province": "VE",
     "x": 565,
     "y": 470,
-    "price": 2571,
+    "price": 2612,
     "rent_lt": 9.5,
     "yield_lt": 6.7,
     "yield_st": null,
@@ -1256,7 +1256,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Riviera Brenta interna\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:20:28",
+    "updated_at": "2026-06-08 10:14:25",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1265,7 +1265,7 @@
     "province": "VE",
     "x": 735,
     "y": 405,
-    "price": 2571,
+    "price": 2612,
     "rent_lt": 9.3,
     "yield_lt": 6.8,
     "yield_st": 9.5,
@@ -1284,7 +1284,7 @@
     "tags": "[\"Mispriced\",\"Short-term\"]",
     "drivers": "[\"First-mover STR\",\"Qualità tedesca\"]",
     "risks": "[\"Mercato piccolo\"]",
-    "updated_at": "2026-05-27 09:19:06",
+    "updated_at": "2026-06-08 10:12:53",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1293,7 +1293,7 @@
     "province": "VE",
     "x": 705,
     "y": 410,
-    "price": 3054,
+    "price": 3117,
     "rent_lt": 26,
     "yield_lt": 6.8,
     "yield_st": 7.5,
@@ -1312,7 +1312,7 @@
     "tags": "[\"Short-term\",\"Premium\"]",
     "drivers": "[\"5,5M presenze 2024\",\"Premium balneare\"]",
     "risks": "[\"Reg. UE 1028/2024\",\"LdB 2026 soglia 3 immobili\"]",
-    "updated_at": "2026-05-27 09:18:21",
+    "updated_at": "2026-06-08 10:12:13",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1321,7 +1321,7 @@
     "province": "VE",
     "x": 695,
     "y": 400,
-    "price": 3054,
+    "price": 3117,
     "rent_lt": 9.9,
     "yield_lt": 6,
     "yield_st": null,
@@ -1340,7 +1340,7 @@
     "tags": "[\"Mispriced\"]",
     "drivers": "[\"Lato continentale Jesolo\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:18:21",
+    "updated_at": "2026-06-08 10:12:13",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1349,7 +1349,7 @@
     "province": "VE",
     "x": 615,
     "y": 415,
-    "price": 2571,
+    "price": 2612,
     "rent_lt": 10,
     "yield_lt": 6.3,
     "yield_st": null,
@@ -1368,7 +1368,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Hinterland Venezia/Mestre\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:18:08",
+    "updated_at": "2026-06-08 10:12:04",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1377,7 +1377,7 @@
     "province": "VE",
     "x": 660,
     "y": 390,
-    "price": 2571,
+    "price": 2612,
     "rent_lt": 7.5,
     "yield_lt": 8,
     "yield_st": null,
@@ -1396,7 +1396,7 @@
     "tags": "[\"Rischio demografico\"]",
     "drivers": "[\"Bassi prezzi\"]",
     "risks": "[\"Demografia debole\",\"Periferia rurale\"]",
-    "updated_at": "2026-05-27 09:17:42",
+    "updated_at": "2026-06-08 10:11:42",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1433,7 +1433,7 @@
     "province": "VE",
     "x": 580,
     "y": 460,
-    "price": 1498,
+    "price": 1459,
     "rent_lt": 10.6,
     "yield_lt": 7.3,
     "yield_st": null,
@@ -1452,7 +1452,7 @@
     "tags": "[\"Long-term\",\"Mispriced\"]",
     "drivers": "[\"Riviera Brenta\",\"Treno VE/PD\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:20:05",
+    "updated_at": "2026-06-08 10:13:59",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1461,7 +1461,7 @@
     "province": "VE",
     "x": 585,
     "y": 440,
-    "price": 1852,
+    "price": 1880,
     "rent_lt": 10,
     "yield_lt": 5.4,
     "yield_st": null,
@@ -1480,7 +1480,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Cintura veneziana qualità\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:20:14",
+    "updated_at": "2026-06-08 10:14:15",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1489,7 +1489,7 @@
     "province": "VE",
     "x": 695,
     "y": 380,
-    "price": 2571,
+    "price": 2612,
     "rent_lt": 9.2,
     "yield_lt": 7.8,
     "yield_st": null,
@@ -1508,7 +1508,7 @@
     "tags": "[\"Mispriced\",\"Long-term\"]",
     "drivers": "[\"Cintura San Donà-Jesolo\",\"Crescita +32,5%\"]",
     "risks": "[\"Servizi limitati\"]",
-    "updated_at": "2026-05-27 09:17:30",
+    "updated_at": "2026-06-08 10:11:28",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1517,7 +1517,7 @@
     "province": "VE",
     "x": 670,
     "y": 365,
-    "price": 2571,
+    "price": 2612,
     "rent_lt": 8.8,
     "yield_lt": 6.5,
     "yield_st": null,
@@ -1536,7 +1536,7 @@
     "tags": "[\"Long-term\",\"Emerging\"]",
     "drivers": "[\"Outlet 3,6M visitatori\",\"Logistica A4\",\"Posto movimento ferroviario 2026\"]",
     "risks": "[\"Comune piccolo\"]",
-    "updated_at": "2026-05-27 09:17:21",
+    "updated_at": "2026-06-08 10:11:14",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1545,7 +1545,7 @@
     "province": "VE",
     "x": 800,
     "y": 365,
-    "price": 2571,
+    "price": 2612,
     "rent_lt": 8.5,
     "yield_lt": 6.5,
     "yield_st": null,
@@ -1564,7 +1564,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Università\",\"Sanità\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:19:39",
+    "updated_at": "2026-06-08 10:13:36",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1573,7 +1573,7 @@
     "province": "VE",
     "x": 635,
     "y": 405,
-    "price": 2571,
+    "price": 2612,
     "rent_lt": 9,
     "yield_lt": 7,
     "yield_st": null,
@@ -1592,7 +1592,7 @@
     "tags": "[\"Long-term\",\"Emerging\"]",
     "drivers": "[\"SFMR Venezia\",\"H-Farm vicinanza\",\"TAV Fase 1 giugno 2026\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:17:55",
+    "updated_at": "2026-06-08 10:11:54",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1601,7 +1601,7 @@
     "province": "VE",
     "x": 690,
     "y": 360,
-    "price": 2571,
+    "price": 2612,
     "rent_lt": 8.5,
     "yield_lt": 6,
     "yield_st": null,
@@ -1620,7 +1620,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Sanitario ULSS 4\",\"Hub residenziale\"]",
     "risks": "[\"Indice vecchiaia ULSS 4 >250\"]",
-    "updated_at": "2026-05-27 09:17:08",
+    "updated_at": "2026-06-08 10:11:00",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1629,7 +1629,7 @@
     "province": "VE",
     "x": 640,
     "y": 445,
-    "price": 4049,
+    "price": 4066,
     "rent_lt": 19,
     "yield_lt": 4,
     "yield_st": 14.2,
@@ -1648,7 +1648,7 @@
     "tags": "[\"Premium\",\"Regolamentazione\"]",
     "drivers": "[\"13,3M pernottamenti 2024\"]",
     "risks": "[\"Moratoria STR 31/12/2026\",\"Reg. 120gg\",\"52% case turistiche\"]",
-    "updated_at": "2026-05-27 09:19:18",
+    "updated_at": "2026-06-08 10:13:08",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1657,7 +1657,7 @@
     "province": "VI",
     "x": 325,
     "y": 425,
-    "price": 1546,
+    "price": 1585,
     "rent_lt": 9,
     "yield_lt": 6,
     "yield_st": null,
@@ -1676,7 +1676,7 @@
     "tags": "[\"Da disinvestire\",\"Rischio\"]",
     "drivers": "[\"Distretto conciario\"]",
     "risks": "[\"Dazi USA\",\"Caos politico 2025\",\"Aggregazioni distretto\"]",
-    "updated_at": "2026-05-27 09:27:43",
+    "updated_at": "2026-06-08 10:21:50",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1685,7 +1685,7 @@
     "province": "VI",
     "x": 390,
     "y": 270,
-    "price": 1546,
+    "price": 1585,
     "rent_lt": 16,
     "yield_lt": 6,
     "yield_st": 11,
@@ -1704,7 +1704,7 @@
     "tags": "[\"Short-term\",\"Montagna\"]",
     "drivers": "[\"Sci/estate\"]",
     "risks": "[\"Climate Alpi\"]",
-    "updated_at": "2026-05-27 09:28:06",
+    "updated_at": "2026-06-08 10:22:14",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1713,7 +1713,7 @@
     "province": "VI",
     "x": 410,
     "y": 330,
-    "price": 1546,
+    "price": 1585,
     "rent_lt": 11.3,
     "yield_lt": 7,
     "yield_st": 22,
@@ -1732,7 +1732,7 @@
     "tags": "[\"Short-term\",\"Mispriced\"]",
     "drivers": "[\"Turismo enogastronomico\",\"Cultura\"]",
     "risks": "[\"Mercato piccolo\"]",
-    "updated_at": "2026-05-27 09:27:12",
+    "updated_at": "2026-06-08 10:21:10",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1741,7 +1741,7 @@
     "province": "VI",
     "x": 395,
     "y": 345,
-    "price": 1546,
+    "price": 1585,
     "rent_lt": 8,
     "yield_lt": 6,
     "yield_st": null,
@@ -1760,7 +1760,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Borgo storico\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:28:20",
+    "updated_at": "2026-06-08 10:22:26",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1769,7 +1769,7 @@
     "province": "VI",
     "x": 320,
     "y": 425,
-    "price": 1546,
+    "price": 1585,
     "rent_lt": 8,
     "yield_lt": 6.2,
     "yield_st": null,
@@ -1788,7 +1788,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Periferia industriale\"]",
     "risks": "[\"Esposizione orafa/conciaria\"]",
-    "updated_at": "2026-05-27 09:28:35",
+    "updated_at": "2026-06-08 10:22:38",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1797,7 +1797,7 @@
     "province": "VI",
     "x": 340,
     "y": 340,
-    "price": 1546,
+    "price": 1585,
     "rent_lt": 8.3,
     "yield_lt": 8,
     "yield_st": null,
@@ -1816,7 +1816,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Distretto precision\",\"Beltrame-Xylem\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:27:22",
+    "updated_at": "2026-06-08 10:21:23",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1825,7 +1825,7 @@
     "province": "VI",
     "x": 355,
     "y": 350,
-    "price": 1546,
+    "price": 1585,
     "rent_lt": 8.9,
     "yield_lt": 6.7,
     "yield_st": null,
@@ -1844,7 +1844,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Manifattura\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:27:31",
+    "updated_at": "2026-06-08 10:21:38",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1853,7 +1853,7 @@
     "province": "VI",
     "x": 305,
     "y": 395,
-    "price": 1546,
+    "price": 1585,
     "rent_lt": 7,
     "yield_lt": 7.3,
     "yield_st": null,
@@ -1872,7 +1872,7 @@
     "tags": "[\"Da disinvestire\",\"Rischio\"]",
     "drivers": "[\"Storico Marzotto\"]",
     "risks": "[\"Marzotto-Favrin 80% aprile 2025\",\"Declino strutturale tessile\"]",
-    "updated_at": "2026-05-27 09:27:55",
+    "updated_at": "2026-06-08 10:22:01",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1881,7 +1881,7 @@
     "province": "VI",
     "x": 360,
     "y": 410,
-    "price": 1817,
+    "price": 1826,
     "rent_lt": 11.3,
     "yield_lt": 5.9,
     "yield_st": 20.5,
@@ -1900,7 +1900,7 @@
     "tags": "[\"Short-term\",\"Mispriced\"]",
     "drivers": "[\"Palladio UNESCO\",\"VicenzaOro\"]",
     "risks": "[\"QdV -10 pos. 2025\",\"Distretto orafo dazi USA\"]",
-    "updated_at": "2026-05-27 09:26:57",
+    "updated_at": "2026-06-08 10:20:54",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1909,7 +1909,7 @@
     "province": "VR",
     "x": 165,
     "y": 400,
-    "price": 3659,
+    "price": 3631,
     "rent_lt": 18,
     "yield_lt": 5,
     "yield_st": 24.5,
@@ -1928,7 +1928,7 @@
     "tags": "[\"Short-term\",\"Lago\"]",
     "drivers": "[\"38,4% turismo tedesco Garda\",\"Cliente alto-spendente\"]",
     "risks": "[\"Climate Garda 2022-24\"]",
-    "updated_at": "2026-05-27 09:25:05",
+    "updated_at": "2026-06-08 10:18:52",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1937,7 +1937,7 @@
     "province": "VR",
     "x": 215,
     "y": 425,
-    "price": 3659,
+    "price": 3631,
     "rent_lt": 8.5,
     "yield_lt": 6.4,
     "yield_st": null,
@@ -1956,7 +1956,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Logistica Verona\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:26:25",
+    "updated_at": "2026-06-08 10:20:16",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1965,7 +1965,7 @@
     "province": "VR",
     "x": 170,
     "y": 390,
-    "price": 3659,
+    "price": 3631,
     "rent_lt": 15,
     "yield_lt": 4.5,
     "yield_st": 11,
@@ -1984,7 +1984,7 @@
     "tags": "[\"Saturazione\"]",
     "drivers": "[\"Brand Garda\"]",
     "risks": "[\"Supply +42,8% YoY\",\"Saturazione locale\"]",
-    "updated_at": "2026-05-27 09:25:38",
+    "updated_at": "2026-06-08 10:19:26",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -1993,7 +1993,7 @@
     "province": "VR",
     "x": 160,
     "y": 415,
-    "price": 3659,
+    "price": 3631,
     "rent_lt": 17,
     "yield_lt": 5,
     "yield_st": 19,
@@ -2012,7 +2012,7 @@
     "tags": "[\"Short-term\",\"Lago\"]",
     "drivers": "[\"Garda turismo internazionale\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:25:26",
+    "updated_at": "2026-06-08 10:19:13",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -2021,7 +2021,7 @@
     "province": "VR",
     "x": 275,
     "y": 520,
-    "price": 3659,
+    "price": 3631,
     "rent_lt": 7.5,
     "yield_lt": 6.7,
     "yield_st": null,
@@ -2040,7 +2040,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Bassa veronese\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:26:38",
+    "updated_at": "2026-06-08 10:20:29",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -2049,7 +2049,7 @@
     "province": "VR",
     "x": 165,
     "y": 340,
-    "price": 3659,
+    "price": 3631,
     "rent_lt": 14,
     "yield_lt": 4.5,
     "yield_st": 13,
@@ -2068,7 +2068,7 @@
     "tags": "[\"Short-term\"]",
     "drivers": "[\"Garda nord\"]",
     "risks": "[\"CAPEX alto\"]",
-    "updated_at": "2026-05-27 09:25:51",
+    "updated_at": "2026-06-08 10:19:37",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -2077,7 +2077,7 @@
     "province": "VR",
     "x": 220,
     "y": 410,
-    "price": 3659,
+    "price": 3631,
     "rent_lt": 9.5,
     "yield_lt": 4.8,
     "yield_st": 13,
@@ -2096,7 +2096,7 @@
     "tags": "[\"Short-term\"]",
     "drivers": "[\"Enoturismo Valpolicella\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:26:47",
+    "updated_at": "2026-06-08 10:20:39",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -2105,7 +2105,7 @@
     "province": "VR",
     "x": 155,
     "y": 430,
-    "price": 3659,
+    "price": 3631,
     "rent_lt": 16,
     "yield_lt": 5,
     "yield_st": 19,
@@ -2124,7 +2124,7 @@
     "tags": "[\"Short-term\",\"Lago\"]",
     "drivers": "[\"Garda + Gardaland\"]",
     "risks": "[\"Climate change\"]",
-    "updated_at": "2026-05-27 09:25:16",
+    "updated_at": "2026-06-08 10:19:03",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -2133,7 +2133,7 @@
     "province": "VR",
     "x": 290,
     "y": 460,
-    "price": 3659,
+    "price": 3631,
     "rent_lt": 7.8,
     "yield_lt": 6.5,
     "yield_st": null,
@@ -2152,7 +2152,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Mercato locale\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:26:12",
+    "updated_at": "2026-06-08 10:20:00",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -2161,7 +2161,7 @@
     "province": "VR",
     "x": 225,
     "y": 440,
-    "price": 2998,
+    "price": 3020,
     "rent_lt": 7.5,
     "yield_lt": 5.8,
     "yield_st": 15.5,
@@ -2180,7 +2180,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Tangenziale\",\"B&B\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:24:53",
+    "updated_at": "2026-06-08 10:18:38",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -2189,7 +2189,7 @@
     "province": "VR",
     "x": 240,
     "y": 460,
-    "price": 2998,
+    "price": 3020,
     "rent_lt": 9,
     "yield_lt": 7.5,
     "yield_st": 14,
@@ -2208,7 +2208,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Policlinico Sud\",\"Università\"]",
     "risks": "[\"Lavori antisismici 2028\"]",
-    "updated_at": "2026-05-27 09:24:53",
+    "updated_at": "2026-06-08 10:18:38",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -2217,7 +2217,7 @@
     "province": "VR",
     "x": 235,
     "y": 425,
-    "price": 2998,
+    "price": 3020,
     "rent_lt": 9,
     "yield_lt": 7.5,
     "yield_st": null,
@@ -2236,7 +2236,7 @@
     "tags": "[\"Top\",\"Long-term\"]",
     "drivers": "[\"Ospedale Maggiore\",\"AOUI\",\"Trauma Center 55K accessi\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:24:53",
+    "updated_at": "2026-06-08 10:18:38",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -2245,7 +2245,7 @@
     "province": "VR",
     "x": 265,
     "y": 435,
-    "price": 2998,
+    "price": 3020,
     "rent_lt": 9.5,
     "yield_lt": 7.3,
     "yield_st": 14,
@@ -2264,7 +2264,7 @@
     "tags": "[\"Universitario\",\"Emerging\"]",
     "drivers": "[\"Studenti Musicisti\",\"Cresce +2,4% YoY\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:24:53",
+    "updated_at": "2026-06-08 10:18:38",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -2273,7 +2273,7 @@
     "province": "VR",
     "x": 245,
     "y": 425,
-    "price": 2998,
+    "price": 3020,
     "rent_lt": 10,
     "yield_lt": 10,
     "yield_st": null,
@@ -2292,7 +2292,7 @@
     "tags": "[\"Top\",\"Mispriced\",\"Long-term\"]",
     "drivers": "[\"AOUI 5.148 dipendenti\",\"Olimpiadi ospedale ufficiale\",\"€32M investimenti 2025\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:24:53",
+    "updated_at": "2026-06-08 10:18:38",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -2301,7 +2301,7 @@
     "province": "VR",
     "x": 255,
     "y": 445,
-    "price": 2998,
+    "price": 3020,
     "rent_lt": 12,
     "yield_lt": 5.5,
     "yield_st": 17.5,
@@ -2320,7 +2320,7 @@
     "tags": "[\"Universitario\"]",
     "drivers": "[\"UniVR 25mila studenti\",\"Cultura\"]",
     "risks": "[\"Rischio normativo STR\"]",
-    "updated_at": "2026-05-27 09:24:53",
+    "updated_at": "2026-06-08 10:18:38",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -2329,7 +2329,7 @@
     "province": "VR",
     "x": 240,
     "y": 440,
-    "price": 2998,
+    "price": 3020,
     "rent_lt": 18,
     "yield_lt": 4.8,
     "yield_st": 16.5,
@@ -2348,7 +2348,7 @@
     "tags": "[\"Short-term\",\"Premium\"]",
     "drivers": "[\"Arena chiusura Olimpiadi 2026\",\"Turismo culturale\"]",
     "risks": "[\"Possibile reg. STR\"]",
-    "updated_at": "2026-05-27 09:24:53",
+    "updated_at": "2026-06-08 10:18:38",
     "created_at": "2026-05-21 15:30:32"
   },
   {
@@ -2357,7 +2357,7 @@
     "province": "VR",
     "x": 215,
     "y": 470,
-    "price": 3659,
+    "price": 3631,
     "rent_lt": 8,
     "yield_lt": 6.4,
     "yield_st": null,
@@ -2376,7 +2376,7 @@
     "tags": "[\"Long-term\"]",
     "drivers": "[\"Manifattura/logistica\"]",
     "risks": "[]",
-    "updated_at": "2026-05-27 09:26:00",
+    "updated_at": "2026-06-08 10:19:49",
     "created_at": "2026-05-21 15:30:32"
   }
 ]
